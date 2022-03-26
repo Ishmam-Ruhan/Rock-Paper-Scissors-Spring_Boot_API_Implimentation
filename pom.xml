@@ -46,6 +46,7 @@
 	</dependencies>
 
 	<build>
+		<finalName>Rock-Paper-Scissors</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
