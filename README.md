@@ -4,7 +4,7 @@
 
 *Using Docker:* 
 
-                  run-> docker-compose up -d 
+                  run-> docker run -p 8080:8080 -d ishmamruhan/rock-paper-scissors:1.0
 
 *Without Docker:*  
 
