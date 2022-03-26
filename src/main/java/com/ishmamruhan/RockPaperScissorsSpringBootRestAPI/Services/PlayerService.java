@@ -17,7 +17,6 @@ public class PlayerService {
     private PlayerDAO playerDAO;
 
     //Add Player
-    @PostMapping("/player/add")
     public String addPlayer(Player player) throws CustomizeException {
         long playerId = -1;
         try{
