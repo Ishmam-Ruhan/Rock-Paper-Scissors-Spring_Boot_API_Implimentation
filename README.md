@@ -31,11 +31,13 @@ The Api's of this application given below:
 
   URL:   http://localhost:8080/api/v1/player/add
 
-  1.1) This Api takes a json of type player.
-  1.2) Example:
+    1.1) This Api takes a json of type player.
+  
+    1.2) Example:
+          
           {
             "name": "Ishmam Ruhan",
-            "email": "ishmamruhan@gmail.com",
+            "email": "ishmamruhan@gmail.com"
           }
         
         
